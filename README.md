@@ -519,7 +519,7 @@ If you use this project in your research, please cite:
 
 Our custom-trained YOLOv8 model achieved excellent performance after 100 epochs of training on football-specific dataset:
 
-#### Final Model Performance (Epoch 100)
+#### Final Model Performance
 | Metric | Value | Description |
 |--------|-------|-------------|
 | **mAP@50** | **79.68%** | Mean Average Precision at IoU 0.5 |
